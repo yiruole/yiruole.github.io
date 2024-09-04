@@ -1,0 +1,4 @@
+# _config.yml
+title: My Jekyll Site
+description: This is my Jekyll site running in Docker
+baseurl: "" # 你的站点基础路径，默认是空
